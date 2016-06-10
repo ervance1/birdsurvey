@@ -9,3 +9,5 @@ Save table with bold header
 
 Make small figure, red line
 
+Submit and get famous
+
